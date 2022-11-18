@@ -22,7 +22,7 @@
 
 | Technics | Project | Tags | Git repository |
 |----------|---------|------|----------------|
-| Data visualization | Speed Dating Challenge | #Seaborn #Kaggle | |
+| Data visualization | Speed Dating Challenge | #Seaborn #Kaggle | JF_B2_SpeedDating |
 | Supervised Machine Learning | Walmart Sales | #LinearRegression | |
 | Supervised Machine Learning | Conversion Rate Challenge | #RandomForest #DecisionTree | |
 | Unsupervised Machine Learning | Uber PickUps | #Kmeans #DBScan | |
