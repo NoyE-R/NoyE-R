@@ -24,9 +24,10 @@
 |----------|---------|------|----------------|
 | Data visualization | Speed Dating Challenge | #Seaborn #Kaggle | JF_B2_SpeedDating |
 | Supervised Machine Learning | Walmart Sales | #LinearRegression | |
-| Supervised Machine Learning | Conversion Rate Challenge | #RandomForest #DecisionTree | |
+| Supervised Machine Learning | Conversion Rate Challenge | #RandomForest #DecisionTree #ADABoost| |
 | Unsupervised Machine Learning | Uber PickUps | #Kmeans #DBScan | |
 | Deep Learning | AT & T | #NLP | |
 | API and Web Scraping | Booking | #Scrapy #Boto3 | |
-  
+| Supervised Machine Learning and Deep Learning | Swiss protective forests | #Dashboard #HGBoost | JF_B6_ProtectiveForest |
+
 </details>
