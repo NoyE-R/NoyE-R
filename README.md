@@ -1,5 +1,5 @@
 ## About me
-### Hi, I am Estelle, a forest scientist who is following data science bootcamp at Jedha.
+### Hi, I am Estelle, a forest scientist who followed data science bootcamp at Jedha.
 
 <!--
 **NoyE-R/NoyE-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@
 </details>
 
 <details>
-<summary>My data science projects</summary>
+<summary>My data science projects managed during JedhaBootcamp certification</summary>
 
 | Technics | Project | Tags | Git repository |
 |----------|---------|------|----------------|
